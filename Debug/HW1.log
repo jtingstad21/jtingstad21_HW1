@@ -1,0 +1,3 @@
+﻿  HW1.cpp
+c:\users\joe tingstad\documents\whitworth 2018\cs 172\homework\hw1\hw1.cpp(49): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HW1.vcxproj -> C:\Users\Joe Tingstad\Documents\Whitworth 2018\CS 172\Homework\HW1\Debug\HW1.exe
